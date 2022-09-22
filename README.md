@@ -9,6 +9,8 @@ GH pages site: https://myka-p.github.io/cpnt260-a1/
 ## Above and Beyond
 - Google fonts used on typeface (https://fonts.google.com/specimen/Outfit?query=outfit)
   - used all throughout the body
+- Link styling customized - added a background color
+  - can be referred at line 21-32 (index.html), and line 36-39 (style.css)
 
 ### Attributions
 - Starter code template: 
