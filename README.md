@@ -12,3 +12,6 @@ https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplat
 
 Using apostrophe:
 https://www.w3schools.com/html/html_entities.asp
+
+Inserting links:
+https://www.w3schools.com/html/html_links.asp

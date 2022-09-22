@@ -9,3 +9,24 @@ h1, h2
 {
   color: darkgreen;
 }
+
+a
+{
+  text-decoration: none;
+}
+
+a:link
+{
+  color: forestgreen;
+}
+
+a:visited
+{
+  color: darkslateblue;
+}
+
+a:hover
+{
+  color: indianred;
+}
+
