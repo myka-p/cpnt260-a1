@@ -3,6 +3,14 @@ body
   max-width: 65ch;
   margin: auto;
   padding: 1rem;
+  line-height: 1.5;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.3em;
+}
+
+h1
+{
+  text-align: center;
 }
 
 h1, h2
@@ -28,5 +36,10 @@ a:visited
 a:hover
 {
   color: indianred;
+}
+
+ol
+{
+  background-color: lavender;
 }
 
